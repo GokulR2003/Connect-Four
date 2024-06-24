@@ -16,7 +16,7 @@ git clone https://github.com/GokulR2003/Connect-Four.git
 cd ConnectFour
 ```
 # Install Dependencies:
-- Ensure you have Python 3.x installed.\
+- Ensure you have Python 3.x installed.
 - Install necessary libraries:
 
 ```bash
@@ -30,9 +30,9 @@ python ConnectFour.py
 ```
 # Game Rules:
 
-- Players take turns to drop their colored pieces into a column of the board.\
-- The first player to connect four of their pieces in a row wins.\
-- Rows can be vertical, horizontal, or diagonal.\
+- Players take turns to drop their colored pieces into a column of the board.
+- The first player to connect four of their pieces in a row wins.
+- Rows can be vertical, horizontal, or diagonal.
 - Enjoy!
 
 # License
